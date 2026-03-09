@@ -43,6 +43,26 @@ export default {
           DEFAULT: "hsl(var(--accent))",
           foreground: "hsl(var(--accent-foreground))",
         },
+        success: {
+          DEFAULT: "hsl(var(--success))",
+          foreground: "hsl(var(--success-foreground))",
+        },
+        warning: {
+          DEFAULT: "hsl(var(--warning))",
+          foreground: "hsl(var(--warning-foreground))",
+        },
+        production: {
+          DEFAULT: "hsl(var(--production))",
+          foreground: "hsl(var(--production-foreground))",
+        },
+        delivered: {
+          DEFAULT: "hsl(var(--delivered))",
+          foreground: "hsl(var(--delivered-foreground))",
+        },
+        paid: {
+          DEFAULT: "hsl(var(--paid))",
+          foreground: "hsl(var(--paid-foreground))",
+        },
         popover: {
           DEFAULT: "hsl(var(--popover))",
           foreground: "hsl(var(--popover-foreground))",
